@@ -52,7 +52,7 @@ songs:
   - name: Dina Di - Amor e Ódio
   - name: Thaide e DJ Hum - Que Tempo Bom
 date: 2018-06-04 09:30:47
-tags: 
+tags: iniciando, desenvolvimento, web, backend, back-end, frameworks, quebradev
 cover: /images/iniciando-no-desenvolvimento-web-back-end.png
 description: Sabe o mundo backend? Ele não é tão dificil assim, vem com a gente e descubra como dar os primeiros passos nesta área de desenvolvimento.
 soundcloud_id: 453577206
